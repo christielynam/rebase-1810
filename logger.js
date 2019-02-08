@@ -6,8 +6,9 @@ console.log('where the wild things are');
 console.log('thing1');
 console.log('stuff');
 console.log('Friday!!!')
-console.log('sup')
 console.log('its lit')
+console.log('sup')
 console.log('Whats for lunch?')
 console.log('dj khalid')
 console.log('420')
+console.log('Friyay?');
