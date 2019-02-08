@@ -8,3 +8,4 @@ console.log('stuff');
 console.log('Friday!!!')
 console.log('sup')
 console.log('its lit')
+console.log('Whats for lunch?')
