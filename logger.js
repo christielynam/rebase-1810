@@ -13,3 +13,5 @@ console.log('dj khalid')
 console.log('420')
 console.log('Friyay?');
 console.log('gitastic');
+console.log('this is fine');
+console.log('pizza is life');
