@@ -6,3 +6,5 @@ console.log('where the wild things are');
 console.log('thing1');
 console.log('stuff');
 console.log('Friday!!!')
+console.log('sup')
+console.log('its lit')
